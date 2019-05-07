@@ -2,13 +2,13 @@ The Landing Page
 
 ## Linking to HTML files in the repo
 
-*ugly?
+* ugly?
 
-https://cfss.uchicago.edu/faq/homework-guidelines/#homework-workflow
+https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html
 
 * nice?
 
-http://htmlpreview.github.io/?https://cfss.uchicago.edu/faq/homework-guidelines/#homework-workflow
+http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html
 
 
 
