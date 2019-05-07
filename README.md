@@ -1,7 +1,4 @@
----
-title: "hw01"
-author: "BD"
----
+# HW01
 
 A brief biography of yourself:
 
@@ -87,6 +84,3 @@ Content in the first column | Content in the second column
 aaa | bbb 
 
 
-
-
-:bowtie: 
